@@ -1,0 +1,109 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+.upper {
+    width: 70%;
+    margin: auto;
+    background-color: black;
+}
+.image {
+    width: 40%;
+    float: left;
+    margin-top: 89px;
+    margin-right: 30px;
+    
+    
+    
+}
+
+.heading {
+    margin-right: 10%;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://64.media.tumblr.com/269a91e1a9ed40a5f6df4c35cf2de260/tumblr_pfg94z5tOh1uzwgsuo1_400.gifv) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color:transparent !important;
+}
+.sub-heading {
+    line-height: 1.7;
+    text-align: left;
+    font-family: 'Montserrat';
+    color: white;
+}
+.span {
+    background-image: url(https://64.media.tumblr.com/269a91e1a9ed40a5f6df4c35cf2de260/tumblr_pfg94z5tOh1uzwgsuo1_400.gifv) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color:transparent !important;
+}
+
+
+
+.space {
+    height: 20%;
+    max-width: 100%;
+}
+
+
+
+.Browse {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://64.media.tumblr.com/269a91e1a9ed40a5f6df4c35cf2de260/tumblr_pfg94z5tOh1uzwgsuo1_400.gifv) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color:transparent !important;
+}
+.links-to-projects {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+a.projects {
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-align: center;
+    padding: 0 2% 0 2%;
+    margin: 0 2% 0 2%;
+}
+a.projects:hover {
+    background-image: url(https://64.media.tumblr.com/269a91e1a9ed40a5f6df4c35cf2de260/tumblr_pfg94z5tOh1uzwgsuo1_400.gifv) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color:transparent !important;
+}
+
+.table-footer {
+   margin-left: 18%;
+   width: 100%;
+    
+    
+}
+.head-links {
+    font-family: 'Montserrat';
+    text-decoration: none;
+    background-image: url(https://64.media.tumblr.com/269a91e1a9ed40a5f6df4c35cf2de260/tumblr_pfg94z5tOh1uzwgsuo1_400.gifv) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color:transparent !important;
+    margin: 5%;
+    font-size: 21px;
+    
+}
+.bottom-footer-links {
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    font-size: 21px;
+}
+th {
+    padding: 15px;
+}
