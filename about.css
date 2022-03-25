@@ -49,7 +49,7 @@ body {
 
 
 .Browse {
-    padding-top: 5%;
+    padding-top: 8%;
     text-align: center;
     font-size: 45px;
     font-family: 'Montserrat', sans-serif;
@@ -81,7 +81,7 @@ a.projects:hover {
 }
 
 .table-footer {
-   margin-left: 18%;
+   margin-left: 24%;
    width: 100%;
     
     
